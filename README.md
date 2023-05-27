@@ -5,7 +5,7 @@
 - 🤝 I want to collaborate in the field of machine learning
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderUsov&hide=python)](https://github.com/anuraghazra/github-readme-stats)
----
 ### Below are my completed projects
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UsovAlexander&show_icons=true&hide_border=true" />
 
