@@ -10,8 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsovAlexander&hide=pyton)](https://github.com/anuraghazra/github-readme-stats)
 
----
-### Below are my completed projects
+---  
+
+### My completed projects
 
 | #    | Project name               | Description                                                    | Stack                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
