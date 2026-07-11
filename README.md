@@ -85,7 +85,7 @@ Kaggle recommender systems competition: predict top-20 purchases from **11.4M in
 | Project | Description | Stack |
 |---|---|---|
 | [hr-ai-scout-with-rag](https://github.com/UsovAlexander/hr-ai-scout-with-rag) | RAG system for matching resumes to vacancies: hybrid search + LLM gap analysis + offline retrieval evaluation | Qdrant, LaBSE, BM25, Groq, Streamlit |
-| [chat-groq](https://github.com/UsovAlexander/chat-groq) | LLM chat application powered by the Groq API | Python, Groq |
+| [retail-ai-assistant](https://github.com/UsovAlexander/retail-ai-assistant) | Fully local AI analyst for retail: text-to-SQL over ClickHouse with two-layer RAG, charts and Excel exports, Streamlit chat + Telegram bot | Ollama, ClickHouse, Qdrant, Streamlit, aiogram |
 | [news-topics-competition-2025](https://github.com/UsovAlexander/news-topics-competition-2025) | News topic classification competition | Python, NLP |
 
 ### 🎯 Recommender Systems
